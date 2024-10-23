@@ -17,19 +17,20 @@ const Footer = () => {
         </div>
 
         <div className="flex flex-col items-center">
-        <h1 className="heading lg:max-w-[45vw]">
-          Gostou do trabalho? Quer fazer a <span className="text-[rgba(255,172,209)]">diferença</span>?
-        </h1>
-        <p className="text-white-200 md:mt-10 my-5 text-center">
-          Contate-me hoje e vamos discutir como eu posso te ajudar no seu projeto
-        </p>
-        <a href="mailto:joao.pradosiqueira@gmail.com">
-          <MagicButton
-            title="Vamos entrar em contato"
-            icon={<FaLocationArrow />}
-            position="right"
-          />
-        </a>
+          <h1 className="heading lg:max-w-[45vw]">
+            Gostou do trabalho? Quer fazer a <span className="text-[rgba(255,172,209)]">diferença</span>?
+          </h1>
+          <p className="text-white-200 md:mt-10 my-5 text-center">
+            Contate-me hoje e vamos discutir como eu posso te ajudar no seu projeto
+          </p>
+          <a href="https://api.whatsapp.com/send?phone=5518996953530" download="curriculo_joao_siqueira.pdf" lang="pt-br">
+                <MagicButton 
+                  title="Vamos entrar em contato"
+                  icon={<FaLocationArrow />}
+                  position='left'
+                />
+          </a>
+
       </div>
 
         <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
