@@ -18,7 +18,7 @@ const Footer = () => {
 
         <div className="flex flex-col items-center">
           <h1 className="heading lg:max-w-[45vw]">
-            Gostou do trabalho? Quer fazer a <span className="text-[rgba(255,172,209)]">diferença</span>?
+            Gostou do trabalho? Quer fazer parte da <span className="text-[rgba(255,172,209)]">diferença</span>?
           </h1>
           <p className="text-white-200 md:mt-10 my-5 text-center">
             Contate-me hoje e vamos discutir como eu posso te ajudar no seu projeto
