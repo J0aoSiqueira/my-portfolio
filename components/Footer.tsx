@@ -23,7 +23,7 @@ const Footer = () => {
           <p className="text-white-200 md:mt-10 my-5 text-center">
             Contate-me hoje e vamos discutir como eu posso te ajudar no seu projeto
           </p>
-          <a href="https://api.whatsapp.com/send?phone=5518996953530" target="_blank">
+          <a href="mailto:joao.pradosiqueira@gmail.com">
                 <MagicButton 
                   title="Vamos entrar em contato"
                   icon={<FaLocationArrow />}
