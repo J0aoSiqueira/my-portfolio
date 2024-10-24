@@ -34,7 +34,7 @@ const Hero = () => {
               Olá, eu sou João Siqueira, um desenvolvedor do Brasil para o mundo!
             </p>
 
-            <a href="public/curriculo.pdf" download="curriculo_joao_siqueira.pdf" lang="pt-br">
+            <a href="/curriculo.pdf" download="curriculo_joao_siqueira.pdf" lang="pt-br">
               <MagicButton 
                 title="Meu Currículo"
                 icon={<FaAddressBook />}
