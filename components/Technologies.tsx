@@ -3,7 +3,7 @@ import React from 'react'
 
 const Technologies = () => {
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-center" id="technologies">
       <div>
         <h1 className="heading">
           <span className="text-pink-400">Tecnologias</span> que utilizo atualmente
